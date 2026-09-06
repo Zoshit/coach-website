@@ -19,6 +19,7 @@ A large-scale web platform built for selling event tickets, with a complete e-co
 ### 🛒 Shopping Cart
 - Fully functional cart — add and remove items dynamically
 - Persistent cart state across the checkout flow
+![Homepage](media/shopping_cart.gif)
 
 ### 💳 Checkout & Payment
 - Dedicated order creation flow (`/orders/create/`)
