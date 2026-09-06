@@ -11,19 +11,22 @@ A large-scale web platform built for selling event tickets, with a complete e-co
 
 ### 🗂️ Event Catalog
 - Events organized by category with full backend-driven filtering and data management
-- Individual dynamic page for each event, generated from the database (e.g. `/shop/product/30/...`)
+- Individual dynamic page for each event, generated from the database (e.g. `/shop/product/30/...`) 
+![Reviews](media/event_catalog.gif)
 
 ### ⭐ Reviews
 - Customer review section with an auto-scrolling carousel
+![Reviews](media/reviews.gif)
 
 ### 🛒 Shopping Cart
 - Fully functional cart — add and remove items dynamically
 - Persistent cart state across the checkout flow
-![Homepage](media/shopping_cart.gif)
+![Shopping Cart](media/shopping_cart.gif)
 
 ### 💳 Checkout & Payment
 - Dedicated order creation flow (`/orders/create/`)
 - Integrated online payment processing
+![Checkout & Payment](media/payment.gif)
 
 ### ⚙️ Admin Management
 - Discount system configurable through the Django admin panel
