@@ -12,7 +12,7 @@ A large-scale web platform built for selling event tickets, with a complete e-co
 ### 🗂️ Event Catalog
 - Events organized by category with full backend-driven filtering and data management
 - Individual dynamic page for each event, generated from the database (e.g. `/shop/product/30/...`) 
-![Reviews](media/event_catalog.gif)
+![Event Catalog](media/event_catalog.gif)
 
 ### ⭐ Reviews
 - Customer review section with an auto-scrolling carousel
